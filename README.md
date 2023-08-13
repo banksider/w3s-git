@@ -6,3 +6,4 @@ Eric inserted.
 This repository is built step by step in the tutorial.
 
 It now includes steps for Github.
+I have just inserted this new line.
